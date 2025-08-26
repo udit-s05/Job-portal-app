@@ -27,19 +27,12 @@ To get a local copy up and running follow these simple steps.
 - MongoDB Atlas account (or local MongoDB server)
 - Cloudinary account for image storage
 
-
-
-3. ## If you don't want to change the`.env` credentials skip step 4 and move to step 5.
-
-
-
-4. Run the application backend (make sure you are in `/backend` directory) :
+Run the application backend (make sure you are in `/backend` directory) :
 
    ```sh
    node server.js
    ```
-
-5. Run the application frontend (make sure you are in `/frontend` directory) :
+Run the application frontend (make sure you are in `/frontend` directory) :
    ```sh
    npm run dev
    ```
