@@ -36,4 +36,4 @@ Run the application frontend (make sure you are in `/frontend` directory) :
    ```sh
    npm run dev
    ```
-6. Open your browser and navigate to `http://localhost:5173` to view the app.
+Open your browser and navigate to `http://localhost:5173` to view the app.
